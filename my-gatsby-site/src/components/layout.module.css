@@ -1,0 +1,27 @@
+.container {
+  margin: auto;
+  font-family: sans-serif;
+}
+.heading {
+  color: #05bfbf;
+  text-align: center;
+  font-size: 38px;
+  margin-top: 2%;
+}
+.nav-links {
+  display: flex;
+  list-style: none;
+  padding-left: 0;
+}
+.nav-link-item {
+  padding-right: 2rem;
+}
+.nav-link-text {
+  color: black;
+}
+.site-title {
+  font-size: 3rem;
+  color: gray;
+  font-weight: 700;
+  margin: 3rem 0;
+}
